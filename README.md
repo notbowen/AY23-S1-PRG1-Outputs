@@ -197,6 +197,9 @@ Option 6: Display Carparks With At Least x% Available Lots
 Enter the percentage required: invalid percentage
 Invalid input! Please enter again!
 Enter the percentage required: 95
+```
+
+```
 Carpark No Total Lots Lots Available Percentage
 SK48               50             50      100.0
 TBM2              243            242       99.6
@@ -249,6 +252,9 @@ Option 7: Display Addresses of Carparks With At Least x% Available Lots
 Enter the percentage required: invalid percentage
 Invalid input! Please enter again!
 Enter the percentage required: 95
+```
+
+```
 Carpark No Total Lots Lots Available Percentage   Address
 SK48               50             50      100.0   BLK 321 ANCHORVALE DRIVE
 TBM2              243            242       99.6   BLK 73A TELOK BLANGAH STREET 32
