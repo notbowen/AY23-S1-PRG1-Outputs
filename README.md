@@ -1,5 +1,6 @@
 # AY23 Sem 1 PRG1 Final Assignment
 
+The following outputs are based on the data from `carpark-availability-v1.csv`.
 
 ## Basic Requirements
 ### Option 1: Display Total Number of Carparks in 'carpark-information.csv'
