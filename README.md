@@ -344,6 +344,8 @@ Total number: 30
 ```
 Option 9: Display carpark with the most parking lots
 Carpark Number: CKM5
+Carpark Type: MULTI-STOREY CAR PARK
+Type of Parking System: ELECTRONIC PARKING
 Total Lots : 2754
 Lots Available: 2581
 Percentage: 93.7%
