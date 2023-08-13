@@ -33,7 +33,7 @@ PDJ3       BASEMENT CAR PARK    BLK 399 YUNG SHENG ROAD
 PDL1       BASEMENT CAR PARK    BLK 168 PUNGGOL FIELD
 PDL2       BASEMENT CAR PARK    681 PUNGGOL DR
 PDT8       BASEMENT CAR PARK    BLK 866A TAMPINES ST 83
-PL19       BASEMENT CAR PARK    "BLK 186-188,190-192 PUNGGOL CENTRAL"
+PL19       BASEMENT CAR PARK    BLK 186-188,190-192 PUNGGOL CENTRAL
 PL24       BASEMENT CAR PARK    BLK 178 & 193 EDGEFIELD PLAINS
 PL29       BASEMENT CAR PARK    BLK 633 PUNGGOL DRIVE
 PL30       BASEMENT CAR PARK    BLK 170D PUNGGOL EAST
@@ -251,10 +251,10 @@ Total number: 41
 Option 7: Display Addresses of Carparks With At Least x% Available Lots
 Enter the percentage required: invalid percentage
 Invalid input! Please enter again!
-Enter the percentage required: 95
 ```
 
 ```
+Enter the percentage required: 95
 Carpark No Total Lots Lots Available Percentage   Address
 SK48               50             50      100.0   BLK 321 ANCHORVALE DRIVE
 TBM2              243            242       99.6   BLK 73A TELOK BLANGAH STREET 32
