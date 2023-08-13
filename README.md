@@ -362,3 +362,5 @@ Address: BLK 450A CHOA CHU KANG AVENUE 4
 ### Option 10: Create an Output File with Carpark Availability with Addresses and Sort by Lots Available
 
 My output file can be found [here](./blob/master/carpark-availability-with-addresses.csv)
+
+NOTE: The inverted commas (") within the file would not show up in Excel
